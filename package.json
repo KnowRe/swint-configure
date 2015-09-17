@@ -1,0 +1,32 @@
+{
+  "name": "swint-configure",
+  "version": "0.1.0",
+  "description": "The Swint-style helper for configuring the environment for applications",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "eslint lib && mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KnowRe/swint-configure.git"
+  },
+  "keywords": [
+    "swint",
+    "configuration"
+  ],
+  "author": "Kurt Cho <kivoloid@gmail.com>",
+  "contributors": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KnowRe/swint-configure/issues"
+  },
+  "homepage": "https://github.com/KnowRe/swint-configure",
+  "dependencies": {
+    "sprintf": "^0.1.5",
+    "swint-helper": "^0.1.7"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "eslint": "*"
+  }
+}
