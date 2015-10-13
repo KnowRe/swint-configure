@@ -3,6 +3,8 @@ var path = require('path'),
 	swintHelper = require('swint-helper'),
 	configure = require('../lib');
 
+global.swintVar.printLevel = 5;
+
 describe('configure', function() {
 	it('Error when inDir doesn\'t exist', function() {
 		assert.throws(function() {
