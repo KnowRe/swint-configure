@@ -25,11 +25,11 @@
   },
   "homepage": "https://github.com/KnowRe-Dev/swint-configure",
   "dependencies": {
-    "sprintf": "^0.1.5",
-    "swint-helper": "1.x"
+    "sprintf": "0.1.5",
+    "swint-helper": "1.2.2"
   },
   "devDependencies": {
-    "mocha": "^3.2.0",
-    "eslint": "^3.17.0"
+    "mocha": "3.2.0",
+    "eslint": "3.17.0"
   }
 }
