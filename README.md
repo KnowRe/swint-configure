@@ -1,4 +1,6 @@
 # swint-configure
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Knowre-Dev/swint-configure.svg)](https://greenkeeper.io/)
 The Swint-style helper for configuring the environment for applications
 
 **Warning: This is not the final draft yet, so do not use this until its official version is launched**
