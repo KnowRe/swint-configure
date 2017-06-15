@@ -1,6 +1,6 @@
 {
   "name": "swint-configure",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "The Swint-style helper for configuring the environment for applications",
   "main": "lib/index.js",
   "scripts": {
